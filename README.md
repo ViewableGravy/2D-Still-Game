@@ -7,4 +7,4 @@ Programming goals to achieve in this task
 - text must wrap in box
 - text should print left -> right at specified speed
 - should have a skip button that skips the segment of text
-- UI
+- UI features
