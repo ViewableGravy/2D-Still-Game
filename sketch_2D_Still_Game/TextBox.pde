@@ -33,6 +33,10 @@ class TextBox implements Runnable {
   }
 
   public void Display() {
+    fill(0);
+    stroke(255);
+    rect(x,y,wid,hei);
+    fill(255);
     text(currentTextMK2,x,y,wid,hei);
   }
 }
